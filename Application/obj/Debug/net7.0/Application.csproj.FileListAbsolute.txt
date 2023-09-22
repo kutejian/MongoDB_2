@@ -1,0 +1,17 @@
+D:\资源\YyFlight.ToDoList\Application\bin\Debug\net7.0\Application.deps.json
+D:\资源\YyFlight.ToDoList\Application\bin\Debug\net7.0\Application.dll
+D:\资源\YyFlight.ToDoList\Application\bin\Debug\net7.0\Application.pdb
+D:\资源\YyFlight.ToDoList\Application\bin\Debug\net7.0\Infrastructure.dll
+D:\资源\YyFlight.ToDoList\Application\bin\Debug\net7.0\Repository.dll
+D:\资源\YyFlight.ToDoList\Application\bin\Debug\net7.0\Repository.pdb
+D:\资源\YyFlight.ToDoList\Application\bin\Debug\net7.0\Infrastructure.pdb
+D:\资源\YyFlight.ToDoList\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\资源\YyFlight.ToDoList\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\资源\YyFlight.ToDoList\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\资源\YyFlight.ToDoList\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\资源\YyFlight.ToDoList\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\资源\YyFlight.ToDoList\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\资源\YyFlight.ToDoList\Application\obj\Debug\net7.0\Application.dll
+D:\资源\YyFlight.ToDoList\Application\obj\Debug\net7.0\refint\Application.dll
+D:\资源\YyFlight.ToDoList\Application\obj\Debug\net7.0\Application.pdb
+D:\资源\YyFlight.ToDoList\Application\obj\Debug\net7.0\ref\Application.dll
